@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/stats-base-dists-beta-quantile",
+  "version": "0.0.0",
+  "description": "Beta distribution quantile function.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-beta-quantile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "probability",
+    "prob",
+    "cdf",
+    "inverse",
+    "quantile",
+    "percent point",
+    "ppf",
+    "beta",
+    "univariate",
+    "continuous"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
