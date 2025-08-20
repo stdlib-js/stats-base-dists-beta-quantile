@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-22)
+## Unreleased (2025-08-20)
 
 <section class="commits">
 
@@ -12,6 +12,9 @@
 
 <details>
 
+-   [`e678757`](https://github.com/stdlib-js/stdlib/commit/e678757c9a62631a907278ec13a5d7b27c0f1e15) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`f4db760`](https://github.com/stdlib-js/stdlib/commit/f4db760aad4b1c889341eb7d531b13fbd529226f) - **docs:** update `stats/base/dists/beta` examples to use Greek symbols in format strings _(by Philipp Burckhardt)_
 -   [`58636bd`](https://github.com/stdlib-js/stdlib/commit/58636bd810b01e44e6b3f5b987bcfc3da3f53d25) - **bench:** update random value generation [(#6813)](https://github.com/stdlib-js/stdlib/pull/6813) _(by Harsh)_
 -   [`b7ca1bd`](https://github.com/stdlib-js/stdlib/commit/b7ca1bd43ab7777ea30f52b4f1392a78f3ad7b1b) - **docs:** replace manual `for` loop in examples [(#6793)](https://github.com/stdlib-js/stdlib/pull/6793) _(by Harsh)_
