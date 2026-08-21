@@ -2,6 +2,43 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-08-21)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`66cb6cf`](https://github.com/stdlib-js/stdlib/commit/66cb6cfb61b00baaa2645d4941302a1a43aa8282) - **docs:** update Markdown equation elements [(#14459)](https://github.com/stdlib-js/stdlib/pull/14459) _(by stdlib-bot)_
+-   [`0902b03`](https://github.com/stdlib-js/stdlib/commit/0902b03d126d351193fd22733163bf277d4306ee) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`226a7e5`](https://github.com/stdlib-js/stdlib/commit/226a7e5c0ec410f2ac509ffebf39791eaf96114b) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
+-   [`4df94c4`](https://github.com/stdlib-js/stdlib/commit/4df94c400faa6789db335debdc8aa388f508d843) - **docs:** add missing usage notes sections and MGF link [(#14392)](https://github.com/stdlib-js/stdlib/pull/14392) _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
