@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-21)
+## Unreleased (2026-09-22)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`9669982`](https://github.com/stdlib-js/stdlib/commit/96699823b66ebcf9a766310be96e3e524e8e7773) - **test:** migrate `stats/base/dists/beta/quantile` to ULP-based assertions [(#14710)](https://github.com/stdlib-js/stdlib/pull/14710) _(by Athan Reines)_
 -   [`66cb6cf`](https://github.com/stdlib-js/stdlib/commit/66cb6cfb61b00baaa2645d4941302a1a43aa8282) - **docs:** update Markdown equation elements [(#14459)](https://github.com/stdlib-js/stdlib/pull/14459) _(by stdlib-bot)_
 -   [`0902b03`](https://github.com/stdlib-js/stdlib/commit/0902b03d126d351193fd22733163bf277d4306ee) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`226a7e5`](https://github.com/stdlib-js/stdlib/commit/226a7e5c0ec410f2ac509ffebf39791eaf96114b) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
@@ -27,8 +28,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
