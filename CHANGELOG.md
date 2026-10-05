@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-22)
+## Unreleased (2026-10-05)
+
+<section class="features">
+
+### Features
+
+-   [`fc129b4`](https://github.com/stdlib-js/stdlib/commit/fc129b4a89ae438c8b6f5b3bef0bcf5708ce8298) - add C implementation for `math/base/special/betaincinv` [(#15384)](https://github.com/stdlib-js/stdlib/pull/15384)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`fc129b4`](https://github.com/stdlib-js/stdlib/commit/fc129b4a89ae438c8b6f5b3bef0bcf5708ce8298) - **feat:** add C implementation for `math/base/special/betaincinv` [(#15384)](https://github.com/stdlib-js/stdlib/pull/15384) _(by Philipp Burckhardt, Karan Anand)_
 -   [`9669982`](https://github.com/stdlib-js/stdlib/commit/96699823b66ebcf9a766310be96e3e524e8e7773) - **test:** migrate `stats/base/dists/beta/quantile` to ULP-based assertions [(#14710)](https://github.com/stdlib-js/stdlib/pull/14710) _(by Athan Reines)_
 -   [`66cb6cf`](https://github.com/stdlib-js/stdlib/commit/66cb6cfb61b00baaa2645d4941302a1a43aa8282) - **docs:** update Markdown equation elements [(#14459)](https://github.com/stdlib-js/stdlib/pull/14459) _(by stdlib-bot)_
 -   [`0902b03`](https://github.com/stdlib-js/stdlib/commit/0902b03d126d351193fd22733163bf277d4306ee) - **docs:** update Markdown equation elements _(by stdlib-bot)_
@@ -28,9 +39,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
